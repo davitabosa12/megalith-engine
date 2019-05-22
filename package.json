@@ -1,0 +1,19 @@
+{
+  "name": "megalith-engine",
+  "version": "1.0.0",
+  "description": "Toy JS game engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "game-engine",
+    "game"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davitabosa12/megalith-engine.git"
+  },
+  "author": "Davi Tabosa",
+  "license": "ISC"
+}
